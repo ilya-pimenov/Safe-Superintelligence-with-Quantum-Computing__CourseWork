@@ -33,3 +33,9 @@ I remember eating a slice of plain white bread in Saint-Petersburg when I was 9 
 On the spot I immediately think about the ml systems which were made to approve credit scores. And surely they expressed a strong bias towards minorities, which, while potentially is true to the past collected data due to different socio-economic histories, doesn't benefit building a sustainable society tomorrow. There we attempts at "positive discrimination", which had other undersired effect (I guess those can be attributed to "Direct Specification" to the bigger machine) which were recently disputed. 
 
 How this could've been avoided? This is a complex question. Yet usually it is easier to answer what we don't want the system to do; hence combination with Value Learning could help us design a framework of continuous Direct Specification of what we don't want. Like: Do we want to take applicant skin color or postcode into account when calculating credit-score? -> No.
+
+--
+
+## 1. Scenario Discussion: Students break into groups to discsuss potential control strategies for a hypothetical superintelligent AI. What would be the best methods for ensuring both safety and alignment in this case? What governance structures would be necessary to regulate such a system?
+
+Just to look at one of the aspects, I would've discuss what ways do we have to monitor current "launches" of superintelligent ai; My guess would be that it will be something that monitors vast access to data/ collection of data.
